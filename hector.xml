@@ -1,4 +1,5 @@
-<nombre>Hector</nombre>
-<varon></varon>
-<edad>18 añitos fiera</edad>
+<persona>
+	<nombre>Hector</nombre>
+	<varon></varon>
+	<edad>18 añitos fiera</edad>
 </persona>
